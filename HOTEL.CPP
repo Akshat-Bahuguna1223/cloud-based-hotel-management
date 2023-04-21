@@ -6,7 +6,7 @@
 #include<stdlib.h>
 // #include<dos.h>
 #include<string.h>
-#include<conio.h>
+#include<ncurses.h>
 // #include <windows.h>
 using namespace std;
 
