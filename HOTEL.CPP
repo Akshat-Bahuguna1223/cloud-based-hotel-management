@@ -4,10 +4,8 @@
 #include<fstream>
 #include<stdio.h>
 #include<stdlib.h>
-// #include<dos.h>
 #include<string.h>
 #include <curses.h>
-// #include <windows.h>
 using namespace std;
 
 
