@@ -8,7 +8,7 @@
 #include <curses.h>
 using namespace std;
 
-//test
+
 
 //START OF CLASS
 
