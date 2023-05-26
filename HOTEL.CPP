@@ -34,6 +34,7 @@ void modify(int);		//to modify the record
 void delete_rec(int);		//to delete the record
 void bill(int);                 //for the bill of a record
      };
+
     //END OF CLASS
 
 
